@@ -1,0 +1,102 @@
+.ui-datepicker-header {
+    background: #eaeaea;
+    color: #333;
+    font-weight: 700;
+    line-height: 30px;
+}
+.ui-datepicker {
+    display: block;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    color: #666;
+    background: #fafafa;
+    width: 100%;
+}
+.date-block {
+    text-align: center;
+    background: #1d86d6;
+    font-family: Helvetica, sans-serif;
+    color: #eee;
+    font-size: 18pt;
+    padding: 10px;
+}
+.date-day {
+    font-size: 24pt;
+}
+.date-date {
+    font-size: 48pt;
+}
+.ui-datepicker-next,
+.ui-datepicker-prev {
+    font-family: FontAwesome;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    cursor: pointer;
+    background-color: none;
+    background-repeat: no-repeat;
+    position: relative;
+    color: transparent !important;
+}
+.ui-datepicker-prev {
+    float: left;
+    background-position: center -30px;
+}
+.ui-datepicker-next {
+    float: right;
+    background-position: center 0;
+}
+.ui-datepicker-prev:before {
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.3) !important;
+}
+.ui-datepicker-next:before {
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.3) !important;
+}
+.ui-datepicker-year {
+    font-weight: 400;
+}
+.ui-datepicker-calendar {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    background: #fafafa;
+    font-family: Helvetica, sans-serif;
+}
+.ui-datepicker-prev span {
+    background-image: url('../images/ui-icons_444444_256x240.png')!important;
+}
+.ui-datepicker-next span {
+    background-image: url('../images/ui-icons_444444_256x240.png')!important;
+}
+.ui-datepicker td a {
+    text-decoration: none;
+}
+.ui-datepicker td a,
+.ui-datepicker td span {
+    display: block;
+    width: 100%;
+    font-size: 12px;
+    padding: 10px 0;
+    color: #333;
+}
+.ui-datepicker td span {
+    color: #bbb;
+}
+.ui-datepicker .ui-state-active {
+    background: #1d86d6;
+    color: #fff;
+}
+/* .ui-datepicker .ui-state-highlight {
+    background-color: #222E3E!important;
+    color: #fff!important;
+} */
+.ui-datepicker td.past {
+    color: #bbb;
+}
+.ui-datepicker a:hover {
+    background: #666;
+    color: #fff;
+}

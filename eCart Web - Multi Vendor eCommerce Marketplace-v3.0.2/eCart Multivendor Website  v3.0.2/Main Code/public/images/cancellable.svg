@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="cancellable" transform="translate(-1 -1)">
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="24" cy="24" r="24" transform="translate(1 1)" fill="#f2f3f8"/>
+    <path id="Path_2" data-name="Path 2" d="M14.935,22.5V33.041a2.754,2.754,0,0,0,2.7,2.287h8.319" transform="translate(0.064 0.089)" fill="none" stroke="#83b735" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_2-2" data-name="Path 2" d="M25.953,22.5V33.041a2.754,2.754,0,0,1-2.7,2.287H14.935" transform="translate(9 0.089)" fill="none" stroke="#83b735" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_3" data-name="Path 3" d="M14.3,18.913a.512.512,0,0,1-.371-.164.574.574,0,0,1-.154-.393V15.579a1.753,1.753,0,0,1,.12-.638,1.676,1.676,0,0,1,.341-.541,1.574,1.574,0,0,1,.511-.362,1.5,1.5,0,0,1,.6-.127h16.8a1.534,1.534,0,0,1,1.115.489,1.719,1.719,0,0,1,.462,1.18v2.777a.575.575,0,0,1-.154.393.514.514,0,0,1-.372.163Z" transform="translate(1.229 0.089)" fill="none" stroke="#83b735" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_4" data-name="Path 4" d="M22.4,21.947h4.35" transform="translate(0.404 0.642)" fill="none" stroke="#83b735" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
